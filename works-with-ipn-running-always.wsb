@@ -1,0 +1,12 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>REPLACE_ME_WITH_THIS_REPOS_PATH</HostFolder>
+      <SandboxFolder>C:\scripts</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\scripts\works-with-ipn-running-always.cmd</Command>
+  </LogonCommand>
+</Configuration>

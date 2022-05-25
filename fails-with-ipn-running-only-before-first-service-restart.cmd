@@ -1,0 +1,1 @@
+start powershell.exe -ExecutionPolicy Bypass -NoExit -file C:\scripts\fails-with-ipn-running-only-before-first-service-restart.ps1

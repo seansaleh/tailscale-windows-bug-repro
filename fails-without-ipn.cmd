@@ -1,0 +1,1 @@
+start powershell.exe -ExecutionPolicy Bypass -NoExit -file C:\scripts\fails-without-ipn.ps1
